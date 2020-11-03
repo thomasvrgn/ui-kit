@@ -1,4 +1,4 @@
-# # UI Kit
+# UI Kit
 Welcome to the UI kit project aimed at providing modern and easy to integrate web components to simplify web integration or simply the creation of websites. The technologies used are simply and only Tailwind.css, which makes the project a repository without any CSS code!
 
 ## Installation
